@@ -40,7 +40,7 @@ Innovative and highly skilled Machine Learning Engineer and Developer with speci
 
 ****Onscript AI, East Coast, USA****
 
-__March 2024 - Present (2 months)__
+__March 2024 - Present
 
   https://onscript.ai/
 
@@ -53,7 +53,7 @@ __March 2024 - Present (2 months)__
 
 ****DeepQ****
 
-__November 2021 - Present (2 years 7 months)__
+__November 2021 - Present
 
 Website:
 https://deepq.io
