@@ -1,164 +1,95 @@
+## Blaz Jurisic — Curriculum Vitae
 
-  
+### Contact Information
 
-# CV
-
-  
-
-## Contact Information
-
-****Name:**** Blaz Jurisic
-
-****Location:**** Osijek, Croatia
-
-****Email:****  blaz@deepq.io
-****LinkedIn:****  https://www.linkedin.com/in/bjurisic
-
-****GitHub:****  https://github.com/BlazJurisic
-
-  
+* **Location:** Osijek, Croatia
+* **Email:** [blaz@deepq.io](mailto:blaz@deepq.io)
+* **LinkedIn:** [https://www.linkedin.com/in/bjurisic](https://www.linkedin.com/in/bjurisic)
+* **GitHub:** [https://github.com/BlazJurisic](https://github.com/BlazJurisic)
 
 ---
 
-  
+### Professional Summary
 
-## Professional Summary
-
-Innovative and highly skilled Machine Learning Engineer and Developer with specialized expertise in voice technology, particularly in real-time audio processing and manipulation, and automated systems using advanced audio processing techniques. Expert in deploying robust AI solutions in complex environments including regulatory challenges. Proven leadership in directing AI initiatives and product development, with a strong focus on applying deep learning to enhance communication and interaction in automated systems.
-
-  
+Innovative and highly skilled Machine Learning Engineer and Developer specializing in voice technology—real-time audio processing and manipulation, and advanced automated systems. Expert in deploying robust AI solutions under complex regulatory environments, with leadership experience directing AI initiatives and product development to enhance communication and interaction.
 
 ---
 
-  
+### Experience
 
-## Experience
+**Director of AI**
+Onscript AI, East Coast, USA
+March 2024 – Present
 
-  
+* Leading AI-driven quality monitoring tools for call center performance.
+* Architected end-to-end pipelines combining ASR, LLMs, and analytics to assess agent strengths and improvement areas.
+* Built regulatory-compliant solutions and manage cross-functional technical teams.
 
-### ****Director of AI****
+**Founder & Developer**
+DeepQ
+November 2021 – Present
 
-****Onscript AI, East Coast, USA****
+* Pioneered deepfake detection algorithms leveraging GAN artefact analysis in audio/video.
+* Launched SongQ app with 100+ celebrity voice models (VITS, HuBERT) on edge devices.
+* Oversaw end-to-end product development, from model training to mobile/desktop deployment.
 
-__March 2024 - Present
+**R\&D Engineer (Machine Learning)**
+Digital Media Solutions
+July 2021 – August 2023
 
-  https://onscript.ai/
+* Automated agent QA using ASR, spectrogram analytics, and LLM-based scoring.
+* Designed a multi-accent ASR/TTS autopilot system prototyping automated interactions.
 
--  Onscript AI, a company focused on using artificial intelligence to monitor and improve call center performance.
--   Develop and manage tools that automatically assess agent performance, using AI to highlight both strengths and areas for improvement.
--   Recruited by former colleagues from Digital Media Solutions who recognized my expertise in machine learning and my ability to effectively lead technical teams.
-  
+**Machine Learning Engineer**
+Yodel Technologies
+December 2018 – July 2021
 
-### ****Founder and Developer****
+* Real-time robokiller detection with MFCC and spectrogram-based classifiers.
+* Developed ASR/TTS autopilot agent using Tacotron2, FastPitch, FastSpeech2, and Rasa — project ran 2 years until regulatory halt.
 
-****DeepQ****
+**Elixir Developer**
+Yodel Technologies
+August 2018 – December 2018
 
-__November 2021 - Present
-
-Website:
-https://deepq.io
-Social media channels:
-https://linktr.ee/deepqtv  
-
-- Founded a startup that pushes the boundaries of deepfake detection and voice cloning technology.
-- DeepFake detection algorithms that can recognize artefacts due to bias of GAN models (Vocoder in audio, others in image/video) models. 
-
--  Successfully launched a mobile application that allows users to speak in over 100 celebrity voices, showcasing advanced capabilities in voice to voice cloning using models like VITS and HuBERT.
-- https://linktr.ee/songq
-
-  
-
-### ****Research and Development Engineer (Machine Learning)****
-
-****Digital Media Solutions****
-
-__July 2021 - August 2023 (2 years 2 months)__
-
-- Quality control of the agents using ASR, LLM and spectrogram analysis
-- autopilot system for automatic speech recognition and text-to-speech in multiple dialects and accents. Similar project to what I've been doing in Yodel Technologies
-
-  
-
-### ****Machine Learning Engineer****
-
-****Yodel Technologies****
-
-__December 2018 - July 2021 (2 years 8 months)__
-
-  
-
-- automated machine and robokiller detection in real time using spectrograms and MFCC and other representations
-
-- Autopilot which would replace real agent using ASR, TTS and Rasa (back in the days), project failed due to regulations but it lasted 2 years. Voice at the time was built as TTS using arhitectures like Tacotron, tacotron2, fastpitch, etc.
-  
-
-### ****Elixir Developer****
-
-****Yodel Technologies****
-
-__August 2018 - December 2018 (5 months)__
-
-  
-
-- Focused on back-end development, enhancing application performance and working with OTP, and doing lots of audio data.
-  
+* Backend development with OTP and Elixir, optimizing high-throughput audio processing pipelines.
 
 ---
 
-  
+### Education
 
-## Education
-
-  
-
-### ****Master's Degree in Computer Software Engineering****
-
-****Sveučilište 'Josipa Jurja Strossmayera' u Osijeku****
-__2018-2021__
-  
-
-### ****Bachelor of Engineering in Computer Science****
-
-****Sveučilište 'Josipa Jurja Strossmayera' u Osijeku****
-
-__2015 - 2018__
-
-  
+* **M.Sc. in Computer Software Engineering**
+  Josip Juraj Strossmayer University, Osijek (2018–2021)
+* **B.Eng. in Computer Science**
+  Josip Juraj Strossmayer University, Osijek (2015–2018)
 
 ---
 
-  
+### Skills
 
-## Skills
+* **Programming Languages & Frameworks:** Python, JavaScript, Swift, React Native, Node.js, Elixir
+* **Audio & Voice Technologies:**
 
-  
-
-- ****Languages and Frameworks:**** Python, JavaScript, Swift, React Native, Node.js, Elixir
-
-- ****Technologies:**** Docker, ONNX, TorchScript, TensorFlow Lite, OpenXLA
-
-- ****Specializations:**** Deep Learning, Machine Learning, Audio Signal Processing, Voice Cloning, ASR, TTS, Voice2Voice
-  
+  * **ASR:** DeepSpeech, Whisper, Silero, Fast Conformer architectures, NVIDIA NeMo model fine-tuning, NVIDIA Parakeet
+  * **TTS:** VITS, Tacotron2, FastPitch, FastSpeech2, advanced LLM-based vocoders
+* **Machine Learning & AI:** Deep Learning, Audio Signal Processing, Voice Cloning, ASR, TTS, Voice2Voice
+* **Large Language Models & Architectures:** LangChain pipelines, agentic architectures, Agno Framework, Retrieval-Augmented Generation (RAG), vector DBs (Qdrant, OpenSearch), reasoning models, fine-tuning LLMs with LoRA & QLoRA
+* **Deployment & Optimization:** Docker, ONNX, TorchScript, TensorFlow Lite, OpenXLA
 
 ---
 
-  
+### Projects
 
-## Projects
-
-  
-
-***SongQ Celebrity voice changer***
-https://linktr.ee/songq
-
-Developed a cross-platform application that supports real-time voice cloning and pitch modification, it has 100 voices and models are running on edge device (F0 detector, hubert encoder, multi-speaker decoders, bandwidth expanders...)
-
-****Virtual Avatars in eLearning****
-
-Partnering with the University of Zagreb to create virtual avatars that use AI to enhance the learning experience.
-
-University in Zagreb called me to work on their scientific studies on virtual avatars in elearning and there is a possibility I will start doctorate studies on voice reconstruction (there is a case study of recovering voice of Nikola Tesla from old audio files) where we have these files in Qdrant vector database and we also have lots of other similar voices and we are going to sample the closest matches to fix the holes and expand the frequency bandwidth in the old audio files.
-
-  
+* **SongQ Celebrity Voice Changer**
+  Real-time, multi-voice edge app using HuBERT encoders, multi-speaker decoders, F0 detection, and bandwidth expanders. [https://linktr.ee/songq](https://linktr.ee/songq)
+* **Virtual Avatars in eLearning**
+  Partnering with University of Zagreb on AI-driven avatars; planning doctoral research on restoring Nikola Tesla’s voice using vector DB-driven frequency expansion and gap filling.
 
 ---
+
+### Conversational AI Research
+
+* **Automatic Speech Recognition (ASR):** Extensive research and implementation using DeepSpeech, Whisper, Silero, and Fast Conformer architectures; fine-tuned NVIDIA NeMo models and NVIDIA Parakeet for domain-specific voice transcription and adapting to new languages.
+* **Text-to-Speech (TTS):** Developed and optimized LLM-based vocoder models including VITS, Tacotron2, FastPitch, and FastSpeech2 to achieve natural, expressive speech synthesis.
+* **Large Language Model Integration:** Designed agentic architectures and LangChain pipelines; implemented Agno framework for RAG systems; leveraged vector databases (Qdrant, OpenSearch) for semantic retrieval; conducted fine-tuning of LLMs using LoRA and QLoRA techniques; explored reasoning models for conversational planning.
+
+*Updated July 2025*
