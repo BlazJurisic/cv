@@ -17,6 +17,22 @@ Innovative and highly skilled Machine Learning Engineer and Developer specializi
 
 ### Experience
 
+**Deployment Strategist**
+Wonderful, Tel Aviv District, Israel (Remote)
+May 2026 – Present
+
+* Following a company restructuring of the Adriatics delivery org, transitioned into a Deployment Strategist role with platform-wide scope.
+* Lead deployments for the largest telcos and banks in the Adriatic region, owning end-to-end delivery of production voice and conversational AI agents.
+* Architect and ship agentic, state-machine-driven customer-service automations on the Wonderful platform, integrating telephony, RAG knowledge bases, and secure banking/telecom backends.
+
+**Head of Delivery, Adriatics**
+Wonderful, Tel Aviv District, Israel (Remote)
+November 2025 – May 2026
+
+* Led delivery for the Adriatics region, owning the rollout of AI agents for major regional telecom and banking clients (e.g., Yettel Serbia, AIK Banka).
+* Directed cross-functional delivery teams across solution design, agent prompt engineering, tooling, and production deployment.
+* Established delivery processes, evaluation frameworks, and deployment infrastructure (VPN/SIP proxying, secure API gateways) for regulated telco and financial-services environments.
+
 **Director of AI**
 Onscript AI, East Coast, USA
 March 2024 – Present
@@ -92,4 +108,4 @@ August 2018 – December 2018
 * **Text-to-Speech (TTS):** Developed and optimized LLM-based vocoder models including VITS, Tacotron2, FastPitch, and FastSpeech2 to achieve natural, expressive speech synthesis.
 * **Large Language Model Integration:** Designed agentic architectures and LangChain pipelines; implemented Agno framework for RAG systems; leveraged vector databases (Qdrant, OpenSearch) for semantic retrieval; conducted fine-tuning of LLMs using LoRA and QLoRA techniques; explored reasoning models for conversational planning.
 
-*Updated July 2025*
+*Updated June 2026*
